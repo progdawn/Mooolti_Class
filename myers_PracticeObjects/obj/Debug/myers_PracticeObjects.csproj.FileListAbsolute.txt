@@ -1,0 +1,6 @@
+c:\users\dawn\documents\visual studio 2012\Projects\myers_PracticeObjects\myers_PracticeObjects\bin\Debug\myers_PracticeObjects.exe.config
+c:\users\dawn\documents\visual studio 2012\Projects\myers_PracticeObjects\myers_PracticeObjects\obj\Debug\myers_PracticeObjects.csprojResolveAssemblyReference.cache
+c:\users\dawn\documents\visual studio 2012\Projects\myers_PracticeObjects\myers_PracticeObjects\bin\Debug\myers_PracticeObjects.exe
+c:\users\dawn\documents\visual studio 2012\Projects\myers_PracticeObjects\myers_PracticeObjects\bin\Debug\myers_PracticeObjects.pdb
+c:\users\dawn\documents\visual studio 2012\Projects\myers_PracticeObjects\myers_PracticeObjects\obj\Debug\myers_PracticeObjects.exe
+c:\users\dawn\documents\visual studio 2012\Projects\myers_PracticeObjects\myers_PracticeObjects\obj\Debug\myers_PracticeObjects.pdb
